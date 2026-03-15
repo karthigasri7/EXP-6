@@ -14,6 +14,7 @@ DIAGRAm:
 ![output](p1.jpeg)
 ![output](p5.jpeg)
 ![output](p4.jpeg)
+
 CIRCUIT DIAGRAM
 PROCEDURE: -
 I. Connect the multimeter at the output of kit..
